@@ -1,0 +1,16 @@
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\bin\Debug\net5.0\step2coder-ConsoleApp16.exe
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\bin\Debug\net5.0\step2coder-ConsoleApp16.deps.json
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\bin\Debug\net5.0\step2coder-ConsoleApp16.runtimeconfig.json
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\bin\Debug\net5.0\step2coder-ConsoleApp16.runtimeconfig.dev.json
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\bin\Debug\net5.0\step2coder-ConsoleApp16.dll
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\bin\Debug\net5.0\step2coder-ConsoleApp16.pdb
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.csproj.AssemblyReference.cache
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.AssemblyInfo.cs
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.dll
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\refint\step2coder-ConsoleApp16.dll
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.pdb
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\step2coder-ConsoleApp16.genruntimeconfig.cache
+C:\Users\FP2402381\source\repos\step2coder-ConsoleApp16\step2coder-ConsoleApp16\obj\Debug\net5.0\ref\step2coder-ConsoleApp16.dll
